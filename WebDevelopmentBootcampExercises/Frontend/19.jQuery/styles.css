@@ -1,0 +1,13 @@
+body {
+    background-color: whitesmoke;
+}
+
+.big-title {
+    font-size: 5rem;
+    font-family: cursive;
+    color: yellowgreen
+}
+
+.margin-50 {
+    margin: 500;
+}
